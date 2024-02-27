@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C, Java, Python, HTML, CSS, Javascript.**
 
-- 📫 How to reach me **debnathdipak449gmail.com**
+- 📫 How to reach me **debnathdipak449@gmail.com**
 
 - 📄 Know about my experiences [Pending](Pending)
 
