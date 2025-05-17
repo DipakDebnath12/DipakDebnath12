@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Dipak Debnath</h1>
 <h3 align="center">I am learning and explore about Web devlopment & Coding .</h3>
-<h3 align="center">From - INDIA, West Bengal</h3>
+<h3 align="center">From - West Bengal, India</h3>
 <img alighn="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 <h4>I am student of North Bengal University.<br>My course  started in 2022 .</br></h4>
 
